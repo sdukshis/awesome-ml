@@ -60,6 +60,7 @@ Maintainer - [sdukshis](https://github.com/sdukshis)
 * Machine Learning: A Bayesian and Optimization Perspective by Sergios Theodoridis - [Amazon](http://www.amazon.com/Machine-Learning-Optimization-Perspective-Developers/dp/0128015225/ref=pd_sim_14_3?ie=UTF8&dpID=51vPYhMsTvL&dpSrc=sims&preST=_AC_UL160_SR128%2C160_&refRID=12KNBY7VJ04SMYBXKQQ7), [Safari](https://www.safaribooksonline.com/library/view/machine-learning/9780128015223/)
 * Fundamentals of Deep Learning, Nikhil Buduma - [Safari](https://www.safaribooksonline.com/library/view/fundamentals-of-deep/9781491925607/)
 * Rank Based Anomaly Detection Algorithms - [Book](http://surface.syr.edu/cgi/viewcontent.cgi?article=1335&context=eecs_etd)
+* Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville - [Book](http://www.deeplearningbook.org/)
 
 ## Journals
 * [Journal of Machine Learning Research](http://jmlr.csail.mit.edu/)
