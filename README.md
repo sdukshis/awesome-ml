@@ -75,6 +75,7 @@ Maintainer - [sdukshis](https://github.com/sdukshis)
 * [PhysioBank](http://www.physionet.org/cgi-bin/atm/ATM)
 * [UCR Time Series Classification Archive](http://www.cs.ucr.edu/~eamonn/time_series_data/)
 * [NASA Shuttle Valve Data](http://cs.fit.edu/~pkc/nasa/data/)
+* [Yahoo Labeled Anomaly Detection Dataset](https://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70)
 
 ## Blogposts
 * [Estimating Rainfall From Weather Radar Readings Using Recurrent Neural Networks](http://simaaron.github.io/Estimating-rainfall-from-weather-radar-readings-using-recurrent-neural-networks/)
