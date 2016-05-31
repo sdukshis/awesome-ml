@@ -19,6 +19,8 @@ Maintainer - [sdukshis](https://github.com/sdukshis)
     * [Lasagne](http://lasagne.readthedocs.io/en/latest/) - Python
     * [Keras](http://keras.io/) - Python
     * [mxnet](https://github.com/dmlc/mxnet) - Python, C++, R, Scala, Julia, Go, Matlab, js
+    * [Caffe](http://caffe.berkeleyvision.org/) - Python, C++
+    * [cuDNN](https://developer.nvidia.com/cudnn) - C++
 * [scikit-learn](http://scikit-learn.org/) - Python
 
 ## Courses
