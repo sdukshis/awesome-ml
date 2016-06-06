@@ -47,6 +47,7 @@ Maintainer - [sdukshis](https://github.com/sdukshis)
     * Convolutional Neural Networks
         * Time Series Classification Using Multi-Channels Deep Convolutional Neural Networks, Yi Zheng, Qi Liu, Enhong Chen, Yong Ge, and J Lean Zhao, 2014 - [Paper](http://staff.ustc.edu.cn/~cheneh/paper_pdf/2014/Yi-Zheng-WAIM2014.pdf)
         * Convolutional Networks for Images, Speech, and Time-Series, Yann Lecun, Yoshua Bengio - [Paper](http://yann.lecun.com/exdb/publis/pdf/lecun-bengio-95a.pdf)
+        * Understanding Convolutional Neural Networks, Jayanth Koushik - [Paper](https://arxiv.org/pdf/1605.09081v1.pdf)
 * Time Series Anomaly Detection
     * SAX
         * HOT SAX: Finding the Most Unusual Time Series Subsequence: Algorithms and Applications, Eamonn Keogh, Jessica Lin, Ada Fu, 2005 - [Paper](http://www.cs.ucr.edu/~eamonn/discords/HOT%20SAX%20%20long-ver.pdf), [Materials](http://www.cs.ucr.edu/~eamonn/discords/)
