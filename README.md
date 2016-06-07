@@ -83,7 +83,7 @@ Maintainer - [sdukshis](https://github.com/sdukshis)
 * [NASA Shuttle Valve Data](http://cs.fit.edu/~pkc/nasa/data/)
 * [Yahoo Labeled Anomaly Detection Dataset](https://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70)
 * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
-
+* [The Numenta Anomaly Benchmark Competition For Real-Time Anomaly Detection](http://numenta.org/nab/)
 ## Blogposts
 * [Estimating Rainfall From Weather Radar Readings Using Recurrent Neural Networks](http://simaaron.github.io/Estimating-rainfall-from-weather-radar-readings-using-recurrent-neural-networks/)
 * [Theoretical Motivations for Deep Learning](http://rinuboney.github.io/2015/10/18/theoretical-motivations-deep-learning.html)
