@@ -53,6 +53,8 @@ Maintainer - [sdukshis](https://github.com/sdukshis)
 * Time Series Anomaly Detection
     * SAX
         * HOT SAX: Finding the Most Unusual Time Series Subsequence: Algorithms and Applications, Eamonn Keogh, Jessica Lin, Ada Fu, 2005 - [Paper](http://www.cs.ucr.edu/~eamonn/discords/HOT%20SAX%20%20long-ver.pdf), [Materials](http://www.cs.ucr.edu/~eamonn/discords/)
+* Clustering
+    * Consistent Algorithms for Clustering Time Series, Azadeh Khaleghi, Daniil Ryabko, Jeremie Mary, Philippe Preux, 2016 - [Paper](http://jmlr.csail.mit.edu/papers/volume17/khaleghi16a/khaleghi16a.pdf)
 
 ## Thesis
 * [Statistical Language Models based on Neural Networks by Tomas Mikolov](http://www.fit.vutbr.cz/~imikolov/rnnlm/thesis.pdf)
