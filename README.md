@@ -87,8 +87,10 @@ Maintainer - [sdukshis](https://github.com/sdukshis)
 * [Yahoo Labeled Anomaly Detection Dataset](https://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70)
 * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 * [The Numenta Anomaly Benchmark Competition For Real-Time Anomaly Detection](http://numenta.org/nab/)
+
 ## Blogposts
 * [Estimating Rainfall From Weather Radar Readings Using Recurrent Neural Networks](http://simaaron.github.io/Estimating-rainfall-from-weather-radar-readings-using-recurrent-neural-networks/)
 * [Theoretical Motivations for Deep Learning](http://rinuboney.github.io/2015/10/18/theoretical-motivations-deep-learning.html)
 * [CMU Graphics Lab Motion Capture Database](http://mocap.cs.cmu.edu/)
 * [Common Objects in Context](http://mscoco.org/)
+* [Neural Network Architectures](https://culurciello.github.io/tech/2016/06/04/nets.html)
