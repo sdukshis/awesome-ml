@@ -99,3 +99,4 @@ Maintainer - [sdukshis](https://github.com/sdukshis)
 
 ## Competitions
 * [Senior Data Science: Safe Aging with SPHERE](https://www.drivendata.org/competitions/42/page/71/)
+* [ML Boot Camp](http://mlbootcamp.ru)
