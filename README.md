@@ -22,6 +22,7 @@ Maintainer - [sdukshis](https://github.com/sdukshis)
     * [Caffe](http://caffe.berkeleyvision.org/) - Python, C++
     * [cuDNN](https://developer.nvidia.com/cudnn) - C++
 * [scikit-learn](http://scikit-learn.org/) - Python
+* [Rodeo](https://www.yhat.com/) - Python
 
 ## Courses
 * Machine Learning
