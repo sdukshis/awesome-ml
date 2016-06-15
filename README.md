@@ -11,6 +11,7 @@ Maintainer - [sdukshis](https://github.com/sdukshis)
 - [Journals](#journals)
 - [Datasets](#datasets)
 - [Blogposts](#blogposts)
+- [Competitions](#competitions)
 
 ## Code
 * Neural Networks
@@ -95,3 +96,6 @@ Maintainer - [sdukshis](https://github.com/sdukshis)
 * [Common Objects in Context](http://mscoco.org/)
 * [Neural Network Architectures](https://culurciello.github.io/tech/2016/06/04/nets.html)
 * [Building powerful image classification models using very little data](http://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
+
+## Competitions
+* [Senior Data Science: Safe Aging with SPHERE](https://www.drivendata.org/competitions/42/page/71/)
