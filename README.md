@@ -57,7 +57,9 @@ Maintainer - [sdukshis](https://github.com/sdukshis)
     * SAX
         * HOT SAX: Finding the Most Unusual Time Series Subsequence: Algorithms and Applications, Eamonn Keogh, Jessica Lin, Ada Fu, 2005 - [Paper](http://www.cs.ucr.edu/~eamonn/discords/HOT%20SAX%20%20long-ver.pdf), [Materials](http://www.cs.ucr.edu/~eamonn/discords/)
     * LSTM
-        * LSTM-based Encoder-Decoder for Multi-sensor Anomaly Detection, Pankaj Malhotra, Anusha Ramakrishnan, Gaurangi Anand, Lovekesh Vig, Puneet Agarwal, Gautam Shroff, 2016 - [Paper](https://drive.google.com/file/d/0B8Dg3PBX90KNQWRwMElkVkQ0aFgzZGpzOGQtUU5DeWZYUlVV/view)   
+        * LSTM-based Encoder-Decoder for Multi-sensor Anomaly Detection, Pankaj Malhotra, Anusha Ramakrishnan, Gaurangi Anand, Lovekesh Vig, Puneet Agarwal, Gautam Shroff, 2016 - [Paper](https://drive.google.com/file/d/0B8Dg3PBX90KNQWRwMElkVkQ0aFgzZGpzOGQtUU5DeWZYUlVV/view)
+    * Transfer learning
+        * Transfer Representation-Learning for Anomaly Detection, Jerone T. A. Andrews, Thomas Tanay, Edward J. Morton, Lewis D. Griffin, 2016 - [Paper](https://drive.google.com/file/d/0B8Dg3PBX90KNeFROU3BDT1ZhTXlSV3Rsb3JfVWNTWkpLTUhJ/view)
 * Clustering
     * Consistent Algorithms for Clustering Time Series, Azadeh Khaleghi, Daniil Ryabko, Jeremie Mary, Philippe Preux, 2016 - [Paper](http://jmlr.csail.mit.edu/papers/volume17/khaleghi16a/khaleghi16a.pdf)
 
