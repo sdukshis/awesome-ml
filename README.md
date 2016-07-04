@@ -93,6 +93,7 @@ Maintainer - [sdukshis](https://github.com/sdukshis)
 * [Yahoo Labeled Anomaly Detection Dataset](https://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70)
 * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 * [The Numenta Anomaly Benchmark Competition For Real-Time Anomaly Detection](http://numenta.org/nab/)
+* [An archive of datasets distributed with R](https://vincentarelbundock.github.io/Rdatasets/datasets.html)
 
 ## Blogposts
 * [Estimating Rainfall From Weather Radar Readings Using Recurrent Neural Networks](http://simaaron.github.io/Estimating-rainfall-from-weather-radar-readings-using-recurrent-neural-networks/)
