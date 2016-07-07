@@ -94,6 +94,7 @@ Maintainer - [sdukshis](https://github.com/sdukshis)
 * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 * [The Numenta Anomaly Benchmark Competition For Real-Time Anomaly Detection](http://numenta.org/nab/)
 * [An archive of datasets distributed with R](https://vincentarelbundock.github.io/Rdatasets/datasets.html)
+* [List of datasets for machine learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research)
 
 ## Blogposts
 * [Estimating Rainfall From Weather Radar Readings Using Recurrent Neural Networks](http://simaaron.github.io/Estimating-rainfall-from-weather-radar-readings-using-recurrent-neural-networks/)
