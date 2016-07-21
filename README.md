@@ -74,6 +74,7 @@ Maintainer - [sdukshis](https://github.com/sdukshis)
 * Rank Based Anomaly Detection Algorithms - [Book](http://surface.syr.edu/cgi/viewcontent.cgi?article=1335&context=eecs_etd)
 * Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville - [Book](http://www.deeplearningbook.org/)
 * Foundations of Data Science, Avrim Blum, John Hopcroft and Ravindran Kannan - [Book](http://www.cs.cornell.edu/jeh/book2016June9.pdf)
+* 
 ## Journals
 * [Journal of Machine Learning Research](http://jmlr.csail.mit.edu/)
 * [Machine Learning and Data Analysis ](http://jmlda.org/)
