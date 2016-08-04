@@ -42,6 +42,8 @@ Maintainer - [sdukshis](https://github.com/sdukshis)
         * Dropout:  A Simple Way to Prevent Neural Networks from Overfitting, N. Srivastava, G. Hinton, A. Krizhevsky, I. Sutskever, R. Salakhutdinov - [Paper](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
         * Reducing the Dimensionality of Data with Neural Networks, G. E. Hinton* and R. R. Salakhutdinov - [Paper](http://www.cs.toronto.edu/~hinton/science.pdf)
         * A theoretical framework for deep transfer learning, T. Galanti, L. Wolf, and T. Hazan - [Paper](http://imaiai.oxfordjournals.org/content/early/2016/04/28/imaiai.iaw008.full.pdf)
+        * Comparative Study of Deep Learning Software Frameworks, Soheil Bahrampour, Naveen Ramakrishnan, Lukas Schott, Moh
+ak Shah - [Paper](http://arxiv.org/abs/1511.06435)
     * Recurrent Networks
         * Long Short-Term Memory, S. Hochreiter, J. Schmidhuber, 1997 - [Paper](http://deeplearning.cs.cmu.edu/pdfs/Hochreiter97_lstm.pdf)
         * Long Short Term Memory Networks for Anomaly Detection in Time Series, P. Malhotra, L. Vig, G. Shroff, P. Agarwal, 2015 - [Paper](https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2015-56.pdf)
