@@ -44,6 +44,7 @@ Maintainer - [sdukshis](https://github.com/sdukshis)
         * A theoretical framework for deep transfer learning, T. Galanti, L. Wolf, and T. Hazan - [Paper](http://imaiai.oxfordjournals.org/content/early/2016/04/28/imaiai.iaw008.full.pdf)
         * Comparative Study of Deep Learning Software Frameworks, Soheil Bahrampour, Naveen Ramakrishnan, Lukas Schott, Moh
 ak Shah - [Paper](http://arxiv.org/abs/1511.06435)
+        * Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift, Sergey Ioffe, Christian Szegedy - [Paper](Sergey Ioffe, Christian Szegedy)
     * Recurrent Networks
         * Long Short-Term Memory, S. Hochreiter, J. Schmidhuber, 1997 - [Paper](http://deeplearning.cs.cmu.edu/pdfs/Hochreiter97_lstm.pdf)
         * Long Short Term Memory Networks for Anomaly Detection in Time Series, P. Malhotra, L. Vig, G. Shroff, P. Agarwal, 2015 - [Paper](https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2015-56.pdf)
