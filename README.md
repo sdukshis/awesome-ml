@@ -52,6 +52,7 @@ ak Shah - [Paper](http://arxiv.org/abs/1511.06435)
         * Sequence Labelling in Structured Domains with Hierarchical Recurrent Neural Networks, Santiago Fernandez, Alex Graves, Jurgen Schmidhuber, 2007 - [Paper](ftp://ftp.idsia.ch/pub/juergen/IJCAI07sequence.pdf)
         * Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks, Alex Graves, Santiago Fernandez, Faustino Gomez, Jurgen Schmidhuber, 2006 - [Paper](http://machinelearning.wustl.edu/mlpapers/paper_files/icml2006_GravesFGS06.pdf)
         * Learning Long-Term Dependencies with Gradient Descent is Difficult, Y. Bengio, P. Simard, and P. Frasconi, 1994 - [Paper](http://www-dsi.ing.unifi.it/~paolo/ps/tnn-94-gradient.pdf)
+        * Character-Aware Neural Language Models, Yoon Kim, Yacine Jernite, David Sontag, Alexander M. Rush - [Paper](http://www.people.fas.harvard.edu/%7Eyoonkim/data/aaai_2016.pdf)
     * Convolutional Neural Networks
         * Time Series Classification Using Multi-Channels Deep Convolutional Neural Networks, Yi Zheng, Qi Liu, Enhong Chen, Yong Ge, and J Lean Zhao, 2014 - [Paper](http://staff.ustc.edu.cn/~cheneh/paper_pdf/2014/Yi-Zheng-WAIM2014.pdf)
         * Convolutional Networks for Images, Speech, and Time-Series, Yann Lecun, Yoshua Bengio - [Paper](http://yann.lecun.com/exdb/publis/pdf/lecun-bengio-95a.pdf)
