@@ -111,6 +111,7 @@ ak Shah - [Paper](http://arxiv.org/abs/1511.06435)
 * [Building powerful image classification models using very little data](http://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
 * [Understanding Stateful LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/understanding-stateful-lstm-recurrent-neural-networks-python-keras/)
 * [Written Memories: Understanding, Deriving and Extending the LSTM](http://r2rt.com/written-memories-understanding-deriving-and-extending-the-lstm.html)
+* [Time Series Prediction With Deep Learning in Keras](http://machinelearningmastery.com/time-series-prediction-with-deep-learning-in-python-with-keras/)
 
 ## Competitions
 * [Senior Data Science: Safe Aging with SPHERE](https://www.drivendata.org/competitions/42/page/71/)
