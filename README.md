@@ -66,6 +66,8 @@ ak Shah - [Paper](http://arxiv.org/abs/1511.06435)
     * Transfer learning
         * Transfer Representation-Learning for Anomaly Detection, Jerone T. A. Andrews, Thomas Tanay, Edward J. Morton, Lewis D. Griffin, 2016 - [Paper](https://drive.google.com/file/d/0B8Dg3PBX90KNeFROU3BDT1ZhTXlSV3Rsb3JfVWNTWkpLTUhJ/view)
     * Anomaly Detection Based on Sensor Data in Petroleum Industry Applications, Luis Martí,1, Nayat Sanchez-Pi, José Manuel Molina, and Ana Cristina Bicharra Garcia - [Paper](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4367333/)
+    * Anomaly detection in aircraft data using recurrent nueral networks (RNN), Anvardh Nanduri, Lance Sherry - [Paper](http://catsr.ite.gmu.edu/pubs/ICNS_2016_AnomalyDetectionRNN_01042015.pdf)
+
 * Clustering
     * Consistent Algorithms for Clustering Time Series, Azadeh Khaleghi, Daniil Ryabko, Jeremie Mary, Philippe Preux, 2016 - [Paper](http://jmlr.csail.mit.edu/papers/volume17/khaleghi16a/khaleghi16a.pdf)
 
