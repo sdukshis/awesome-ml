@@ -74,6 +74,7 @@ ak Shah - [Paper](http://arxiv.org/abs/1511.06435)
 * [Time Series Prediction Using Neural Networks by Karol Kuna, 2015](http://is.muni.cz/th/410446/fi_b/thesis.pdf)
 * [TRAINING RECURRENT NEURAL NETWORKS by Ilya Sutskever, 2013](http://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf)
 * [Anomaly Detection of Time Series](http://conservancy.umn.edu/bitstream/handle/11299/92985/?sequence=1)
+* [Unsupervised Anomaly Detection in Sequences Using Long Short Term Memory Recurrent Neural Networks](http://mars.gmu.edu/handle/1920/10250)
 
 ## Books
 * Machine Learning: A Bayesian and Optimization Perspective by Sergios Theodoridis - [Amazon](http://www.amazon.com/Machine-Learning-Optimization-Perspective-Developers/dp/0128015225/ref=pd_sim_14_3?ie=UTF8&dpID=51vPYhMsTvL&dpSrc=sims&preST=_AC_UL160_SR128%2C160_&refRID=12KNBY7VJ04SMYBXKQQ7), [Safari](https://www.safaribooksonline.com/library/view/machine-learning/9780128015223/)
