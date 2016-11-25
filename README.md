@@ -59,6 +59,7 @@ ak Shah - [Paper](http://arxiv.org/abs/1511.06435)
         * Understanding Convolutional Neural Networks, Jayanth Koushik - [Paper](https://arxiv.org/pdf/1605.09081v1.pdf)
         * Deep learning, Yann LeCun, Yoshua Bengio, andGeoffrey Hinton - [Paper](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
         * Leaning longer memory in recurrent neural networks, Tomas Mikolov, Armand Joulin, Sumit Chopra, Michael Mathieu & Marc’Aurelio Ranzato - [Paper](https://arxiv.org/pdf/1412.7753.pdf)
+        * Recurrent neural network regularization, Wojciech Zaremba, Ilya Sutskever, Oriol Vinyals - [Paper](https://arxiv.org/pdf/1409.2329v5.pdf)
 
 * Time Series Anomaly Detection
     * SAX
