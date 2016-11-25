@@ -5,6 +5,7 @@ Maintainer - [sdukshis](https://github.com/sdukshis)
 ## Table of Contents
 - [Code](#code)
 - [Courses](#courses)
+- [Conferences](#conferences)
 - [Papers](#papers)
 - [Thesis](#thesis)
 - [Books](#books)
@@ -33,6 +34,11 @@ Maintainer - [sdukshis](https://github.com/sdukshis)
     * [Machine Learning (Andrew Ng)](https://www.coursera.org/learn/machine-learning)
 * Neural Networks
     * [CS231n Convolutional Neural Networks for Visual Recognition by Andrej Karpathy](http://cs231n.github.io/)
+
+## Conferences
+ * Neural Information Processing Systems (NIPS) - [site](http://nips.cc)
+ * International Conference on Learning Representations (ICLR) - [site](http://www.iclr.cc)
+ * International Conference on Machine Learning (ICML) - [site](http://www.icml.cc)
 
 ## Papers
 * Neural Networks
