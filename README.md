@@ -34,7 +34,8 @@ Maintainer - [sdukshis](https://github.com/sdukshis)
     * [Machine Learning (Andrew Ng)](https://www.coursera.org/learn/machine-learning)
 * Neural Networks
     * [CS231n Convolutional Neural Networks for Visual Recognition by Andrej Karpathy](http://cs231n.github.io/)
-
+    * [Глубинное обучение (курс лекций)](http://www.machinelearning.ru/wiki/index.php?title=Глубинное_обучение_%28курс_лекций%29)
+    
 ## Conferences
  * Neural Information Processing Systems (NIPS) - [site](http://nips.cc)
  * International Conference on Learning Representations (ICLR) - [site](http://www.iclr.cc)
