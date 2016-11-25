@@ -58,6 +58,8 @@ ak Shah - [Paper](http://arxiv.org/abs/1511.06435)
         * Convolutional Networks for Images, Speech, and Time-Series, Yann Lecun, Yoshua Bengio - [Paper](http://yann.lecun.com/exdb/publis/pdf/lecun-bengio-95a.pdf)
         * Understanding Convolutional Neural Networks, Jayanth Koushik - [Paper](https://arxiv.org/pdf/1605.09081v1.pdf)
         * Deep learning, Yann LeCun, Yoshua Bengio, andGeoffrey Hinton - [Paper](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
+        * Leaning longer memory in recurrent neural networks, Tomas Mikolov, Armand Joulin, Sumit Chopra, Michael Mathieu & Marc’Aurelio Ranzato - [Paper](https://arxiv.org/pdf/1412.7753.pdf)
+
 * Time Series Anomaly Detection
     * SAX
         * HOT SAX: Finding the Most Unusual Time Series Subsequence: Algorithms and Applications, Eamonn Keogh, Jessica Lin, Ada Fu, 2005 - [Paper](http://www.cs.ucr.edu/~eamonn/discords/HOT%20SAX%20%20long-ver.pdf), [Materials](http://www.cs.ucr.edu/~eamonn/discords/)
