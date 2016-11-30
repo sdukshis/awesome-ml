@@ -69,7 +69,8 @@ ak Shah - [Paper](http://arxiv.org/abs/1511.06435)
         * Recurrent neural network regularization, Wojciech Zaremba, Ilya Sutskever, Oriol Vinyals - [Paper](https://arxiv.org/pdf/1409.2329v5.pdf)
         * Learning to forget: continual prediction with LSTM, Felix Gers,  Jurgen Schmidhuber, 1999 - [Paper](https://pdfs.semanticscholar.org/1154/0131eae85b2e11d53df7f1360eeb6476e7f4.pdf)
         * Unitary Evolution Recurrent Neural Networks, Martin Arjovsky, Amar Shah, Yoshua Bengio, 2015 - [Paper](https://arxiv.org/abs/1511.06464)
-        
+        * Visualizing and understanding recurrent networks, Andrej Karpathy, Justin Johnson, Li Fei-Fei - [Paper](https://arxiv.org/pdf/1506.02078.pdf)
+
 * Time Series Anomaly Detection
     * SAX
         * HOT SAX: Finding the Most Unusual Time Series Subsequence: Algorithms and Applications, Eamonn Keogh, Jessica Lin, Ada Fu, 2005 - [Paper](http://www.cs.ucr.edu/~eamonn/discords/HOT%20SAX%20%20long-ver.pdf), [Materials](http://www.cs.ucr.edu/~eamonn/discords/)
