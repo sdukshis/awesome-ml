@@ -121,6 +121,7 @@ ak Shah - [Paper](http://arxiv.org/abs/1511.06435)
 * [An archive of datasets distributed with R](https://vincentarelbundock.github.io/Rdatasets/datasets.html)
 * [List of datasets for machine learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research)
 * [Disk Defect Data](https://c3.nasa.gov/dashlink/resources/314/)
+* [Hard Drive Data and Stats](https://www.backblaze.com/b2/hard-drive-test-data.html)
 
 ## Blogposts
 * [Estimating Rainfall From Weather Radar Readings Using Recurrent Neural Networks](http://simaaron.github.io/Estimating-rainfall-from-weather-radar-readings-using-recurrent-neural-networks/)
