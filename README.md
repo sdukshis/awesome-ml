@@ -70,6 +70,7 @@ ak Shah - [Paper](http://arxiv.org/abs/1511.06435)
         * Learning to forget: continual prediction with LSTM, Felix Gers,  Jurgen Schmidhuber, 1999 - [Paper](https://pdfs.semanticscholar.org/1154/0131eae85b2e11d53df7f1360eeb6476e7f4.pdf)
         * Unitary Evolution Recurrent Neural Networks, Martin Arjovsky, Amar Shah, Yoshua Bengio, 2015 - [Paper](https://arxiv.org/abs/1511.06464)
         * Visualizing and understanding recurrent networks, Andrej Karpathy, Justin Johnson, Li Fei-Fei - [Paper](https://arxiv.org/pdf/1506.02078.pdf)
+        * Deep Recurrent Neural Networks for Time- Series Prediction, Sharat C. Prasad, Piyush Prasad - [Paper](https://arxiv.org/abs/1407.5949)
 
 * Time Series Anomaly Detection
     * SAX
