@@ -76,6 +76,7 @@ ak Shah - [Paper](http://arxiv.org/abs/1511.06435)
         * HOT SAX: Finding the Most Unusual Time Series Subsequence: Algorithms and Applications, Eamonn Keogh, Jessica Lin, Ada Fu, 2005 - [Paper](http://www.cs.ucr.edu/~eamonn/discords/HOT%20SAX%20%20long-ver.pdf), [Materials](http://www.cs.ucr.edu/~eamonn/discords/)
     * LSTM
         * LSTM-based Encoder-Decoder for Multi-sensor Anomaly Detection, Pankaj Malhotra, Anusha Ramakrishnan, Gaurangi Anand, Lovekesh Vig, Puneet Agarwal, Gautam Shroff, 2016 - [Paper](https://drive.google.com/file/d/0B8Dg3PBX90KNQWRwMElkVkQ0aFgzZGpzOGQtUU5DeWZYUlVV/view)
+        * Credit Card Transactions, Fraud Detection, and Machine Learning: Modelling Time with LSTM Recurrent Neural Networks, Bénard Wiese and Christian Omlin, 2009 - [Springer](http://link.springer.com/chapter/10.1007%2F978-3-642-04003-0_10)
     * Transfer learning
         * Transfer Representation-Learning for Anomaly Detection, Jerone T. A. Andrews, Thomas Tanay, Edward J. Morton, Lewis D. Griffin, 2016 - [Paper](https://drive.google.com/file/d/0B8Dg3PBX90KNeFROU3BDT1ZhTXlSV3Rsb3JfVWNTWkpLTUhJ/view)
     * Anomaly Detection Based on Sensor Data in Petroleum Industry Applications, Luis Martí,1, Nayat Sanchez-Pi, José Manuel Molina, and Ana Cristina Bicharra Garcia - [Paper](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4367333/)
