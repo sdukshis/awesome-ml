@@ -71,6 +71,10 @@ ak Shah - [Paper](http://arxiv.org/abs/1511.06435)
         * Unitary Evolution Recurrent Neural Networks, Martin Arjovsky, Amar Shah, Yoshua Bengio, 2015 - [Paper](https://arxiv.org/abs/1511.06464)
         * Visualizing and understanding recurrent networks, Andrej Karpathy, Justin Johnson, Li Fei-Fei - [Paper](https://arxiv.org/pdf/1506.02078.pdf)
         * Deep Recurrent Neural Networks for Time- Series Prediction, Sharat C. Prasad, Piyush Prasad - [Paper](https://arxiv.org/abs/1407.5949)
+        * Synthesis of recurrent neural networks for dynamical system simulation, Adam Trischler, Gabriele MT D'Eleuterio - [Paper](https://arxiv.org/abs/1512.05702)
+        * A Recurrent Neural Network for Modelling Dynamical Systems, Coryn A.L. Bailer-Jones , David J.C. MacKay - [Paper](http://www.mpia.de/~calj/dynet_paper.pdf)
+        * Approximation of Dynamical Time-Variant Systems by Continuous-Time Recurrent Neural Networks, Xiao-Dong Li, John K. L. Ho, and Tommy W. S. Chow - [Paper](http://www.ee.cityu.edu.hk/~twschow/pubs/papers/74.pdf)
+        * Approximation of Discrete-Time State-Space 12.ajectories Using Dynamic Recurrent Neural Networks, Liang Jin, Peter N. Nikiforuk, and Madan M. Gupta - [Paper](http://homepage.usask.ca/~mmg864/paper/RJ/RJ-089.pdf)
 
 * Time Series Anomaly Detection
     * SAX
