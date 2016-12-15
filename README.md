@@ -60,11 +60,6 @@ ak Shah - [Paper](http://arxiv.org/abs/1511.06435)
         * Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks, Alex Graves, Santiago Fernandez, Faustino Gomez, Jurgen Schmidhuber, 2006 - [Paper](http://machinelearning.wustl.edu/mlpapers/paper_files/icml2006_GravesFGS06.pdf)
         * Learning Long-Term Dependencies with Gradient Descent is Difficult, Y. Bengio, P. Simard, and P. Frasconi, 1994 - [Paper](http://www-dsi.ing.unifi.it/~paolo/ps/tnn-94-gradient.pdf)
         * Character-Aware Neural Language Models, Yoon Kim, Yacine Jernite, David Sontag, Alexander M. Rush - [Paper](http://www.people.fas.harvard.edu/%7Eyoonkim/data/aaai_2016.pdf)
-    * Convolutional Neural Networks
-        * Time Series Classification Using Multi-Channels Deep Convolutional Neural Networks, Yi Zheng, Qi Liu, Enhong Chen, Yong Ge, and J Lean Zhao, 2014 - [Paper](http://staff.ustc.edu.cn/~cheneh/paper_pdf/2014/Yi-Zheng-WAIM2014.pdf)
-        * Convolutional Networks for Images, Speech, and Time-Series, Yann Lecun, Yoshua Bengio - [Paper](http://yann.lecun.com/exdb/publis/pdf/lecun-bengio-95a.pdf)
-        * Understanding Convolutional Neural Networks, Jayanth Koushik - [Paper](https://arxiv.org/pdf/1605.09081v1.pdf)
-        * Deep learning, Yann LeCun, Yoshua Bengio, andGeoffrey Hinton - [Paper](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
         * Leaning longer memory in recurrent neural networks, Tomas Mikolov, Armand Joulin, Sumit Chopra, Michael Mathieu & Marc’Aurelio Ranzato - [Paper](https://arxiv.org/pdf/1412.7753.pdf)
         * Recurrent neural network regularization, Wojciech Zaremba, Ilya Sutskever, Oriol Vinyals - [Paper](https://arxiv.org/pdf/1409.2329v5.pdf)
         * Learning to forget: continual prediction with LSTM, Felix Gers,  Jurgen Schmidhuber, 1999 - [Paper](https://pdfs.semanticscholar.org/1154/0131eae85b2e11d53df7f1360eeb6476e7f4.pdf)
@@ -75,6 +70,13 @@ ak Shah - [Paper](http://arxiv.org/abs/1511.06435)
         * A Recurrent Neural Network for Modelling Dynamical Systems, Coryn A.L. Bailer-Jones , David J.C. MacKay - [Paper](http://www.mpia.de/~calj/dynet_paper.pdf)
         * Approximation of Dynamical Time-Variant Systems by Continuous-Time Recurrent Neural Networks, Xiao-Dong Li, John K. L. Ho, and Tommy W. S. Chow - [Paper](http://www.ee.cityu.edu.hk/~twschow/pubs/papers/74.pdf)
         * Approximation of Discrete-Time State-Space 12.ajectories Using Dynamic Recurrent Neural Networks, Liang Jin, Peter N. Nikiforuk, and Madan M. Gupta - [Paper](http://homepage.usask.ca/~mmg864/paper/RJ/RJ-089.pdf)
+        * Predictive Business Process Monitoring with LSTM Neural Networks, Niek Tax1, Ilya Verenich2,3, Marcello La Rosa2, and Marlon Dumas - [Paper](https://arxiv.org/pdf/1612.02130.pdf)
+    * Convolutional Neural Networks
+        * Time Series Classification Using Multi-Channels Deep Convolutional Neural Networks, Yi Zheng, Qi Liu, Enhong Chen, Yong Ge, and J Lean Zhao, 2014 - [Paper](http://staff.ustc.edu.cn/~cheneh/paper_pdf/2014/Yi-Zheng-WAIM2014.pdf)
+        * Convolutional Networks for Images, Speech, and Time-Series, Yann Lecun, Yoshua Bengio - [Paper](http://yann.lecun.com/exdb/publis/pdf/lecun-bengio-95a.pdf)
+        * Understanding Convolutional Neural Networks, Jayanth Koushik - [Paper](https://arxiv.org/pdf/1605.09081v1.pdf)
+        * Deep learning, Yann LeCun, Yoshua Bengio, andGeoffrey Hinton - [Paper](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
+       
 
 * Time Series Anomaly Detection
     * SAX
