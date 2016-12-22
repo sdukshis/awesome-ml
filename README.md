@@ -23,6 +23,7 @@ Maintainer - [sdukshis](https://github.com/sdukshis)
     * [mxnet](https://github.com/dmlc/mxnet) - Python, C++, R, Scala, Julia, Go, Matlab, js
     * [Caffe](http://caffe.berkeleyvision.org/) - Python, C++
     * [cuDNN](https://developer.nvidia.com/cudnn) - C++
+    * [Requests for research](https://github.com/openai/requests-for-research)
 * [scikit-learn](http://scikit-learn.org/) - Python
 * [Rodeo](https://www.yhat.com/) - Python
 * [BigARTM](http://bigartm.org/) - Python
