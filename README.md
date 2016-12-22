@@ -43,6 +43,8 @@ Maintainer - [sdukshis](https://github.com/sdukshis)
 
 ## Papers
 * Neural Networks
+    * Feed-forward networks
+        * Approximation by Superpositions of a Sigmoidal Function, G, Cybenko - [Paper](http://deeplearning.cs.cmu.edu/pdfs/Cybenko.pdf)
     * Deep learning
         * Learning multiple layers of representation, Geoffrey Hinton, 2007 - [Paper](http://www.cs.toronto.edu/~fritz/absps/tics.pdf)
         * Learning Deep Architectures for AT, Yoshua Bengio - [Paper](http://people.cs.pitt.edu/~huynv/research/deep-nets/Learning%20Deep%20Architectures%20for%20AI.pdf)
