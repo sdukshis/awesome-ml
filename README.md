@@ -5,6 +5,7 @@ Maintainer - [sdukshis](https://github.com/sdukshis)
 ## Table of Contents
 - [Code](#code)
 - [Courses](#courses)
+- [Videos](#videos)
 - [Conferences](#conferences)
 - [Papers](#papers)
 - [Thesis](#thesis)
@@ -37,7 +38,11 @@ Maintainer - [sdukshis](https://github.com/sdukshis)
 * Neural Networks
     * [CS231n Convolutional Neural Networks for Visual Recognition by Andrej Karpathy](http://cs231n.github.io/)
     * [Глубинное обучение (курс лекций)](http://www.machinelearning.ru/wiki/index.php?title=Глубинное_обучение_%28курс_лекций%29)
-    
+
+## Videos
+ * Recurrent neural networks
+    * [Recurrent Neural Networks by Y. Bengio](http://videolectures.net/deeplearning2016_bengio_neural_networks/)
+
 ## Conferences
  * Neural Information Processing Systems (NIPS) - [site](http://nips.cc)
  * International Conference on Learning Representations (ICLR) - [site](http://www.iclr.cc)
