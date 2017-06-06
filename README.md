@@ -101,6 +101,7 @@ ak Shah - [Paper](http://arxiv.org/abs/1511.06435)
     * Anomaly Detection Based on Sensor Data in Petroleum Industry Applications, Luis Martí,1, Nayat Sanchez-Pi, José Manuel Molina, and Ana Cristina Bicharra Garcia - [Paper](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4367333/)
     * Anomaly detection in aircraft data using recurrent nueral networks (RNN), Anvardh Nanduri, Lance Sherry - [Paper](http://catsr.ite.gmu.edu/pubs/ICNS_2016_AnomalyDetectionRNN_01042015.pdf)
     * Bayesian Online Changepoint Detection, Ryan Prescott Adams, David J.C. MacKay - [Paper](http://hips.seas.harvard.edu/files/adams-changepoint-tr-2007.pdf)
+    * Anomaly Detection in Aviation Data using Extreme Learning Machines, Vijay Manikandan Janakiraman, David Nielsen - [Paper](https://c3.nasa.gov/dashlink/static/media/publication/PID4205935.pdf)
 
 * Clustering
     * Consistent Algorithms for Clustering Time Series, Azadeh Khaleghi, Daniil Ryabko, Jeremie Mary, Philippe Preux, 2016 - [Paper](http://jmlr.csail.mit.edu/papers/volume17/khaleghi16a/khaleghi16a.pdf)
