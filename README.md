@@ -28,6 +28,7 @@ Maintainer - [sdukshis](https://github.com/sdukshis)
 * [scikit-learn](http://scikit-learn.org/) - Python
 * [Rodeo](https://www.yhat.com/) - Python
 * [BigARTM](http://bigartm.org/) - Python
+* [MindsDB](https://github.com/mindsdb/mindsdb) - Python
 
 ## Courses
 * Machine Learning
