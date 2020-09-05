@@ -42,6 +42,8 @@ Maintainer - [sdukshis](https://github.com/sdukshis)
 ## Videos
  * Recurrent neural networks
     * [Recurrent Neural Networks by Y. Bengio](http://videolectures.net/deeplearning2016_bengio_neural_networks/)
+ * New papers covered in a short time
+    * [What's AI](https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg)
 
 ## Conferences
  * Neural Information Processing Systems (NIPS) - [site](http://nips.cc)
